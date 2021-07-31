@@ -1,0 +1,4 @@
+User	Mon	Tue	Wed	Thu	Fri	Sat	Sun	Total[Monday:15.15,Tuesday:13.63,Wednesday:15.8,Thursday:6.62,Friday:7.06,Saturday:4.94,Sunday:0.0,63.2]
+[Monday:5.04,Tuesday:5.04,Wednesday:4.28,Thursday:4.28,Friday:5.04,Saturday:3.52,Sunday:34.0,61.2]
+[Monday:10.1,Tuesday:8.8,Wednesday:5.0,Thursday:8.58,Friday:4.94,Saturday:0.0,Sunday:23.0,60.42]
+[Monday:8.84,Tuesday:10.2,Wednesday:7.9,Thursday:8.8,Friday:6.7,Saturday:2.47,Sunday:11.0,55.91]
